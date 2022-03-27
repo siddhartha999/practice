@@ -228,10 +228,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.flaskapp" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
