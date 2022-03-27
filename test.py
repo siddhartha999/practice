@@ -21,6 +21,7 @@ def display(name,age,msg):
     return(name,age,msg)
 print(display('siddu',25))
 print(display.__name__)
+print('this is master')
 
 
 
